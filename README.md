@@ -9,6 +9,7 @@ A lib that will allow you to convert your html code like this
       <span> Hello there!! </span>
   </div>  
 </div>
+
 <div class="parent-container">
   <div class="inner container">
       <span> Another message :) </span>
